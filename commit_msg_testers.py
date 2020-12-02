@@ -4,7 +4,6 @@ import sys
 import json
 import requests
 import os
-from pprint import pprint
 
 def is_int(value):
 	try:
